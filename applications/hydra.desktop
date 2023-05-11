@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=hydra
+Comment=Hydra is a brute-forcing tool that helps penetration testers and ethical hackers crack the passwords of network services.
+Exec=sh -c "hydra --help;${SHELL}"
+Terminal=true
+Icon=hydra-logo
+Type=Application
+Categories=03-Password-Attack;

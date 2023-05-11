@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=nmap
+Comment=Network Mapper
+Exec=sh -c "nmap --help;${SHELL}"
+Terminal=true
+Icon=nmap-logo
+Type=Application
+Categories=01-Information Gathering;02-Vulnerability-Analysis;

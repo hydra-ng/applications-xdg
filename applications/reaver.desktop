@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=reaver
+Comment= Reaver performs a brute force attack against an access point's WiFi Protected Setup pin number.
+Exec=sh -c "reaver --help;${SHELL}"
+Terminal=true
+Icon=reaver-logo
+Type=Application
+Categories=04-Wireless-Attacks;03-Password-Attack;

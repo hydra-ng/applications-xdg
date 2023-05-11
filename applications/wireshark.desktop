@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=wireshark
+Comment=Wireshark is a free and open-source packet analyzer.
+Exec=wireshark
+Icon=wireshark-logo
+Type=Application
+Terminal=false
+Categories=02-Vulnerability-Analysis;06-Sniffing Spoofing;

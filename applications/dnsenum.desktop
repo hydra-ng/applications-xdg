@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=dnsenum
+Comment=DNSEnum is a command-line tool that automatically identifies basic DNS records such as MX, mail exchange servers, NS, domain name servers, or A—the address record for a domain.
+Exec=sh -c "dnsenum --help;${SHELL}"
+Terminal=true
+Icon=dnsenum-logo
+Type=Application
+Categories=01-Information Gathering;02-Vulnerability-Analysis;

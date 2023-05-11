@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=tcpdump
+Comment=Tcpdump is a command line utility that allows you to capture and analyze network traffic going through your system.
+Exec=sh -c "tcpdump --help;${SHELL}"
+Terminal=true
+Icon=blacktrack-applications-logo
+Type=Application
+Categories=02-Vulnerability-Analysis;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=cowpatty
+Comment=CoWPAtty, developed by Joshua Wright, is a tool that automates offline dictionary attacks that WPA-PSK networks are vulnerable to.
+Exec=sh -c "cowpatty --help;${SHELL}"
+Terminal=true
+Icon=cowpatty-logo
+Type=Application
+Categories=03-Password-Attack;04-Wireless-Attacks;

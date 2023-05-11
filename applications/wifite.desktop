@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=wifite
+Comment=Wifite is a tool to audit WEP or WPA encrypted wireless networks.
+Exec=sh -c "sudo wifite --help;${SHELL}"
+Terminal=true
+Icon=wifite-logo
+Type=Application
+Categories=04-Wireless-Attacks;

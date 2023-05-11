@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=aircrack-ng
+Comment=Aircrack-ng is a complete suite of tools to assess WiFi network security. 
+Exec=sh -c "aircrack-ng --help;${SHELL}"
+Terminal=true
+Icon=aircrack-ng-logo
+Type=Application
+Categories=04-Wireless-Attacks;

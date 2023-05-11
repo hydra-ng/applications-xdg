@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=tshark
+Comment=TShark is a network protocol analyzer.
+Exec=sh -c "tshark --help;${SHELL}"
+Terminal=true
+Icon=blacktrack-applications-logo
+Type=Application
+Categories=02-Vulnerability-Analysis;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=dnsrecon
+Comment=dnsrecon · Check all NS Records for Zone Transfers. · Enumerate General DNS Records for a given Domain (MX, SOA, NS, A, AAAA, SPF and TXT).
+Exec=sh -c "dnsrecon;${SHELL}"
+Terminal=true
+Icon=dnsrecon-logo
+Type=Application
+Categories=02-Vulnerability-Analysis;01-Information Gathering;

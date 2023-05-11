@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=airmon-ng
+Comment=airmon-ng can be used to enable monitor mode on wireless interfaces. 
+Exec=sh -c "sudo airmon-ng --help;${SHELL}"
+Terminal=true
+Icon=blacktrack-applications-logo
+Type=Application
+Categories=04-Wireless-Attacks;

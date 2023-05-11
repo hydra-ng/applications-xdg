@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ghidra
+Comment=Ghidra is a free and open source reverse engineering tool developed by the National Security Agency (NSA) of the United States. 
+Exec=sh -c "ghidra;${SHELL}"
+Icon=ghidra-logo
+Type=Application
+Terminal=false
+Categories=02-Vulnerability-Analysis;06-Sniffing Spoofing;

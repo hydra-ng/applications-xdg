@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=binwalk
+Comment=analyze, reverse-engineer, and extract firmware images
+Exec=sh -c "binwalk --help;${SHELL}"
+Terminal=true
+Icon=binwalk-logo
+Type=Application
+Categories=08-Forensics;09-Reverse Engineering;

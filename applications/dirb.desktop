@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=dirb
+Comment= DIRB is a command line based tool to brute force any directory based on wordlists.
+Exec=sh -c "dirb;${SHELL}"
+Terminal=true
+Icon=dirb-logo
+Type=Application
+Categories=10-Web applications analysis;01-Information Gathering;
